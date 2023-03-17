@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<makeUps>
+	<Makeup id="1">
+        <product>Lipstick</product>
+        <name>Ever Bilena Matte Lipstick - Toast of New York</name>
+		<brand>Ever Bilena</brand>
+		<shade>Sexy Nude</shade>
+		<price>₱195</price>
+		<productDescription>
+            Ever bilena  brings a matte liquid lipstick as its finest, matte finished and rich color combination
+        </productDescription>
+	</Makeup>
+
+
+	<Makeup id="2">
+        <product>Foundation</product>
+        <name>Fit Me Matte + Poreless Foundation</name>
+		<brand>Maybelline Ney York</brand>
+		<shade>Natural Beige</shade>
+		<price>₱499</price>
+		<productDescription>
+            Maybelline's Fit Me Matte + Poreless Liquid Foundation is all about your individual skin tone and texture. Ideal for normal to oily skin types, this ultralightweight formula features flexible micro-powders to control shine and blur pores throughout the day.
+        </productDescription>
+	</Makeup>
+
+	<Makeup id="3">
+        <product>Mascara</product>
+        <name>Diorshow 24h Buildable Volume Mascara</name>
+		<brand>Dior</brand>
+		<shade>Timeless black</shade>
+		<price>₱1,641</price>
+		<productDescription>A mascara that builds perfectly defined lash-by-lash volume</productDescription>
+	</Makeup>
+
+	<Makeup id="4">
+		<product>Blush</product>
+        <name>MAJOR HEADLINES - DOUBLE-TAKE CREME & POWDER BLUSH DUO</name>
+        <brand>Patrick Ta</brand>
+		<shade>SHE'S VIBRANT (VIBRANT ORANGE RED)</shade>
+		<price>₱1,972</price>
+		<productDescription>TWO COMPLEMENTARY BLUSH FORMULAS IN ONE COMPACT TO GIVE YOU FULL, BOLD COLOR, GUARANTEED TO TURN HEADS.</productDescription>
+	</Makeup>
+
+	<Makeup id="5">
+		<product>Highlighter</product>
+        <name>Sugar Glow Kit</name>
+        <brand>ANASTASIA BEVERLY HILLS</brand>
+		<shade>white pearl</shade>
+		<price>₱2,373</price>
+		<productDescription>
+            What it is: A palette of four metallic powder highlighters for intense luminosity.
+            What it does: These four shades highlight your eyes, face and body with a buildable me.
+        </productDescription>
+	</Makeup>
+
+
+</Makeups>
